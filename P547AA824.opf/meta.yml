@@ -1,0 +1,16 @@
+id: P547AA824
+initial_creation_type: input
+source_metadata:
+  title: Arts and Crafts Series
+  language: bo
+  description: 'Texts related to the practical arts and crafts (Skt. śilpa; Tib. bzo
+    rig):'
+  volume:
+    fed3253c0cc74ac9809dcf714300aedd:
+      title: Description of a Kadam Thangka
+      parent: Thangkas
+    87060927b10647f2b54b9a2c1c05f38a:
+      title: On the Proportions of Stūpas and Suchlike
+      parent: Stūpas
+created_at: '2022-03-01T02:44:03.720407'
+last_modified_at: '2022-03-01T02:44:03.720409'
